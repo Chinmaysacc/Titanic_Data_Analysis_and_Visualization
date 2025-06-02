@@ -1,4 +1,4 @@
-# Titanic Data Analysis and Visualization 🧊🚢
+# Titanic Data Analysis and Visualization
 
 This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset using **Pandas**, **Matplotlib**, and **Seaborn**. It aims to extract meaningful insights and represent them visually to understand the factors that influenced passenger survival.
 
